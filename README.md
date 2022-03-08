@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zach. I'm a CS Major and DevOps Engineer Apprentice.
+- 👀 I’m interested in DnD and video games.
+- 🌱 I’m currently learning about the various tools used within the DevOps world.
+- 💞️ I’m looking to collaborate on my senior project.
