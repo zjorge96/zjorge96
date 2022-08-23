@@ -7,11 +7,10 @@ ________
  - [LinkedIn Profile](https://www.linkedin.com/in/zacharyjorgensen/)
 
 ## Who Am I? :raising_hand:
-<img style="width:500px; padding: 10px" src="assets/zach-jorgensen.png">
 
-Welcome to the team! :wave:
+Welcome to my repository! :wave:
 
-I am an apprentice here at Liatrio doing internal work for flywheel. :ferris_wheel:
+I am a DevOps Apprentice at Liatrio doing internal work for flywheel. :ferris_wheel:
 
 Even though I'd like to see rain more than once a year, I am currently living in hot and sunny Chico, CA. :smile:
 
