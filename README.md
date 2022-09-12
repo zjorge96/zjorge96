@@ -3,8 +3,7 @@
 ________
 ## Personal Links :computer:
 
- - [GitHub Profile](https://github.com/zjorge96)
- - [LinkedIn Profile](https://www.linkedin.com/in/zacharyjorgensen/)
+- [LinkedIn Profile](https://www.linkedin.com/in/zacharyjorgensen/)
 
 ## Who Am I? :raising_hand:
 
