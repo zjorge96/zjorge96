@@ -10,8 +10,6 @@ Hey! I'm Zach!
 Associate DevOps Engineer <img height="20px;" src="assets/liatrio-logo.svg"> and Game Enthusiast :video_game:
 </h3>
 
-<br>
-
 ## Personal Links :computer:
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://liatrio.slack.com/team/U02T9EL7D7D)
