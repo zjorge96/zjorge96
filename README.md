@@ -20,10 +20,10 @@ Associate DevOps Engineer <img height="20px;" src="assets/liatrio-logo.svg"> and
 
 ## My Stats :bar_chart:
 
+<h2 align="center" display: inline>
+
 | <a href="https://github.com/zjorge96/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&include_all_commits=true&hide=contribs&show_icons=true&theme=dark"><img alt="Shows Zach's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&include_all_commits=true&hide=contribs&show_icons=true&theme=default"></picture></a> | <a href="https://github.com/zjorge96/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zjorge96&layout=compact&theme=dark"><img alt="Shows Zach's Most Used Languages." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zjorge96&layout=compact&theme=default"></picture></a> |
 | :---: | :---: |
-
-<h2 align="center" display: inline>
 
 [![Profile badge](https://www.codewars.com/users/zjorge96/badges/large)](https://www.codewars.com/users/zjorge96)
 
