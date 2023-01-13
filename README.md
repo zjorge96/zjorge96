@@ -1,5 +1,11 @@
 # **Zach Jorgensen**
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <p align="center">
 <img style="width:500px; padding: 10px" src="assets/zach-jorgensen.png">
 </p>
@@ -9,15 +15,43 @@ Hey! I'm Zach!
 </h2>
 
 <h3 align="center">
-Associate DevOps Engineer <img height="20px;" src="../liatrio-logo.svg"> and Game Enthusiast :video_game:
+Associate DevOps Engineer <img height="20px;" src="assets/liatrio-logo.svg"> and Game Enthusiast :video_game:
 </h3>
+
 <br>
 
 ## Personal Links :computer:
 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white)](https://liatrio.slack.com/team/U02T9EL7D7D)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/zjorge96)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjorgensen/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://liatrio.slack.com/team/U02T9EL7D7D)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjorge96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjorgensen/)
+
+## My Stats :bar_chart:
+
+| [![Zach's GitHub Stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&include_all_commits=true&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/zjorge96/) [![Zach's GitHub Stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&include_all_commits=true&hide=contribs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/zjorge96/) | [![Zach's Top Langs-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zjorge96&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/zjorge96/) [![Zach's Top Langs-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zjorge96&layout=compact&theme=default#gh-light-mode-only)](https://github.com/zjorge96/) |
+| :---: | :---: |
+
+<h2 align="center" display: inline>
+
+[![Profile badge](https://www.codewars.com/users/zjorge96/badges/large)](https://www.codewars.com/users/zjorge96)
+
+</h2>
+
+
+## Favorite Technologies :robot:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Who Am I? :raising_hand:
 
@@ -70,4 +104,4 @@ Outside of work, here are some of the things I really enjoy doing:
 - "Some people live more in 20 years than others do in 80. It's not the time that counts, it's the person." - The Doctor
 - "Whilst effort does not always bring success, there is no such thing as wasted effort." - Aka Akasaka
 
-*Page Last Updated: Jan. 9, 2023*
+*Page Last Updated: Jan. 13, 2023*
