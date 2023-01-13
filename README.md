@@ -1,7 +1,5 @@
-# **Zach Jorgensen**
-
 <p align="center">
-<img style="width:500px; padding: 10px" src="assets/zach-jorgensen.png">
+<img style="width:500px; padding: 10px" src="assets/zachjorgensen.gif">
 </p>
 
 <h2 align="center" display: inline>
