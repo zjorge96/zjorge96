@@ -1,11 +1,5 @@
 # **Zach Jorgensen**
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <p align="center">
 <img style="width:500px; padding: 10px" src="assets/zach-jorgensen.png">
 </p>
@@ -27,6 +21,13 @@ Associate DevOps Engineer <img height="20px;" src="assets/liatrio-logo.svg"> and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjorgensen/)
 
 ## My Stats :bar_chart:
+
+<a href="https://github.com/zjorge96/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&theme=dark">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&theme=default">
+</picture>
+</a>
 
 | [![Zach's GitHub Stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&include_all_commits=true&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/zjorge96/) [![Zach's GitHub Stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zjorge96&include_all_commits=true&hide=contribs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/zjorge96/) | [![Zach's Top Langs-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zjorge96&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/zjorge96/) [![Zach's Top Langs-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zjorge96&layout=compact&theme=default#gh-light-mode-only)](https://github.com/zjorge96/) |
 | :---: | :---: |
