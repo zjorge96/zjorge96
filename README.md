@@ -7,7 +7,7 @@ Hey! I'm Zach!
 </h2>
 
 <h3 align="center">
-Associate DevOps Engineer <img height="20px;" src="assets/liatrio-logo.svg"> and Game Enthusiast :video_game:
+DevOps Engineer <img height="20px;" src="assets/liatrio-logo.svg"> and Game Enthusiast :video_game:
 </h3>
 
 ## Personal Links :computer:
