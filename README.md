@@ -82,12 +82,4 @@ Outside of work, here are some of the things I really enjoy doing:
 - "Some people live more in 20 years than others do in 80. It's not the time that counts, it's the person." - The Doctor
 - "Whilst effort does not always bring success, there is no such thing as wasted effort." - Aka Akasaka
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-*Page Last Updated: Apr. 6, 2025*
-=======
-*Page Last Updated: Jan. 13, 2023*
->>>>>>> parent of 6bcdef4 (update to readme)
-=======
-*Page Last Updated: Jan. 13, 2023*
->>>>>>> parent of 6bcdef4 (update to readme)
+*Page Last Updated: Apr. 13, 2025*
