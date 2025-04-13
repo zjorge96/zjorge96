@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/zac-anime-banner.gif">
+<img src="assets/zachjorgensen.gif">
 </p>
 
 <h2 align="center" display: inline>
@@ -7,13 +7,14 @@ Hey! I'm Zac!
 </h2>
 
 <h3 align="center">
-DevOps Engineer, Full Stack Developer and Game Enthusiast :video_game:
+DevOps Engineer <img height="20px;" src="assets/liatrio-logo.svg"> and Game Enthusiast :video_game:
 </h3>
 
 ## Personal Links :computer:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/354527381379350529)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://liatrio.slack.com/team/U02T9EL7D7D)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjorge96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjorgensen/)
 
 ## Favorite Technologies :robot:
 
@@ -34,11 +35,11 @@ DevOps Engineer, Full Stack Developer and Game Enthusiast :video_game:
 
 Welcome to my README! :wave:
 
-I am a Full Stack Developer and DevOps Engineer! :tiger:
+I am a DevOps Engineer at Liatrio! An apprenticeship program graduate, part of the Lone Lasting Bengals! :tiger:
 
-Even though I'd like to see rain more than once a year, I am currently living in hot and sunny Northern CA. :smile:
+Even though I'd like to see rain more than once a year, I am currently living in hot and sunny Chico, CA. :smile:
 
-I graduated in 2022 with a bachelor's degree in Computer Science. :mortar_board:
+I graduated from Chico State in 2022 with a bachelor's degree in Computer Science. :mortar_board:
 
 ## My Working Style :key:
 
@@ -48,7 +49,7 @@ Although challenging, ensuring that I am able to destress from a long day of wor
 
 ## How to communicate :mailbox_with_mail:
 
-I am almost always on Discord, so feel free to reach out to me there! :iphone:
+I am almost always on Slack, so feel free to reach out to me there! You can also find me on LinkedIn. :iphone:
 
 ## Coffee Talk :coffee:
 
@@ -81,4 +82,12 @@ Outside of work, here are some of the things I really enjoy doing:
 - "Some people live more in 20 years than others do in 80. It's not the time that counts, it's the person." - The Doctor
 - "Whilst effort does not always bring success, there is no such thing as wasted effort." - Aka Akasaka
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 *Page Last Updated: Apr. 6, 2025*
+=======
+*Page Last Updated: Jan. 13, 2023*
+>>>>>>> parent of 6bcdef4 (update to readme)
+=======
+*Page Last Updated: Jan. 13, 2023*
+>>>>>>> parent of 6bcdef4 (update to readme)
